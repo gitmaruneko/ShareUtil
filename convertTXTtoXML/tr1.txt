@@ -1,0 +1,7 @@
+[PASS] XXX Data Check : Success to get Data
+[PASS] XXX pSOC version : 00.07
+[PASS] XXX Sel Check : Success to get sel information
+[PASS] XXX Set Time Test : Success to Set XXX Time Test
+[PASS] XXX Sensor List Check : XXX Sensor list check success
+[PASS] XXX Fan Failure Alert
+[PASS] XXX Voltage Failure Alert
