@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<ITEGRATIONTEST>
+    <ITEM>
+        <RESULT>PASS</RESULT>
+        <TESTCASE>XXX Data Check</TESTCASE>
+    </ITEM>
+    <ITEM>
+        <RESULT>PASS</RESULT>
+        <TESTCASE>XXX pSOC version : 00.07</TESTCASE>
+    </ITEM>
+    <ITEM>
+        <RESULT>PASS</RESULT>
+        <TESTCASE>XXX Sel Check</TESTCASE>
+    </ITEM>
+    <ITEM>
+        <RESULT>PASS</RESULT>
+        <TESTCASE>XXX Set Time Test</TESTCASE>
+    </ITEM>
+    <ITEM>
+        <RESULT>PASS</RESULT>
+        <TESTCASE>XXX Sensor List Check</TESTCASE>
+    </ITEM>
+    <ITEM>
+        <RESULT>PASS</RESULT>
+        <TESTCASE>XXX Fan Failure Alert</TESTCASE>
+    </ITEM>
+    <ITEM>
+        <RESULT>PASS</RESULT>
+        <TESTCASE>XXX Voltage Failure Alert</TESTCASE>
+    </ITEM>
+</ITEGRATIONTEST>
